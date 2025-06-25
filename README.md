@@ -6,7 +6,7 @@ This is the official implementation for the paper "Genetic-evolutionary Graph Ne
 ### Preparation
 The enviroment is created following [LRGB: Long Range Graph Benchmark](https://github.com/vijaydwivedi75/lrgb)
 
-Run the following command to reproduce the resutls on PascalVOC for node classification:
+Run the following command to experiment on PascalVOC for node classification:
 
 ```
 python main --cfg configs/vocsuperpixels-GPS.yaml --repeat 1 seed 0 wandb.use False

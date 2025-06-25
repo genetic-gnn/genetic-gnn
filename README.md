@@ -1,5 +1,10 @@
 # Genetic-evolutionary Graph Nerual Networks: A Paradigm for Improved Graph Representation Learning  
 
+<br>
+This is the official implementation for the paper "Genetic-evolutionary Graph Nerual Networks: A Paradigm for Improved Graph Representation Learning" 
+
+### Preparation
+The enviroment is created following [LRGB: Long Range Graph Benchmark](https://github.com/vijaydwivedi75/lrgb)
 
 <!--
 **genetic-gnn/genetic-gnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
